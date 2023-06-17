@@ -1,0 +1,20 @@
+name: mohammad sujon
+age: 22
+skills: 
+  - javascript
+  - node js
+  - etc
+
+attributes:
+  - a1
+  - a2
+methods: [getter, setter]
+
+Mark McGwire: {hr: 65, avg: 0.278}
+Sammy Sosa: {
+    hr: 63,
+    avg: 0.288
+}
+Mark Henry:
+    hr: 65
+    avg: 0.301
